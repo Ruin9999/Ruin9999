@@ -1,8 +1,8 @@
-### Hi there, I'm Shun Jie - aka Ruin9999
+# Hi there, I'm Shun Jie - aka Ruin9999
 
-## I'm currently a student, passionate about software development.
-- 🔨 I'm currently working a Minecraft bot using Mineflayer.
-- 🤔 I'm currently learning how to use ⚛️ electron, node.js, jQuery & React.
+## I'm currently...
+- 🔨 working a Minecraft bot using Mineflayer.
+- 🤔 learning how to use ⚛️ electron, node.js, jQuery & React.
 
 <br/>
 
