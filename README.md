@@ -1,6 +1,4 @@
-# Hi there, I'm Shun Jie - aka Ruin9999
-
-## I'm currently...
+## Hi there, I'm Shun Jie - aka Ruin9999 & I'm currently...
 - 🔨 working a Minecraft bot using Mineflayer.
 - 🤔 learning how to use ⚛️ electron, node.js, jQuery & React.
 
