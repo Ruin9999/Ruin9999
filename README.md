@@ -1,7 +1,12 @@
-## Hi there, I'm Shun Jie - aka Ruin9999 & I'm currently...
-- 🔨 working a Minecraft bot using Mineflayer.
-- 🤔 Currently learning how to use ⚛️ REACT.
+#Hello there 👋
+My name is Shun Jie and I am an aspiring Software Developer.
+I am from Singapore [SG] and currently I am serving the nation.
 
-<br/>
+This is where I post projects that I am proud of!
 
-<img align="left" alt="Ruin9999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ruin9999&show_icons=true&hide_border=true"/>
+######Currently I am...
+• Learning how to build a full stack website and applications using ReactJs ⚛ and electron.
+• Currently working on a website to play minecraft Java edition on any platform.
+
+##My Github Stats:
+[![Ruin9999's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruin9999)](https://github.com/anuraghazra/github-readme-stats)
