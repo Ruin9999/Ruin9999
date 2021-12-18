@@ -1,8 +1,8 @@
 <h1>Hello there 👋</h1>
-<p>My name is Shun Jie and I am an aspiring Software Developer.</p>
-<p>I am from Singapore [SG] and currently I am serving the nation.</p>
+My name is Shun Jie and I am an aspiring Software Developer.
+I am from Singapore [SG] and currently I am serving the nation.
 
-<p>This is where I post projects that I am proud of!</p>
+This is where I post projects that I am proud of!
 
 <h3>Currently I am...</h3>
 • Learning how to build a full stack website and applications using ReactJs ⚛ and electron.
