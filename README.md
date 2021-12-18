@@ -5,7 +5,7 @@ I am from Singapore [SG] and currently I am serving the nation.
 This is where I post projects that I am proud of!
 
 <h3>Currently I am...</h3>
-• Learning how to build a full stack website and applications using ReactJs ⚛ and electron.
+• Learning how to build a full stack website and applications using ReactJs ⚛ and electron. \n
 • Currently working on a website to play minecraft Java edition on any platform.
 
 <h3>Github Stats:</h3>
