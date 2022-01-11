@@ -10,4 +10,3 @@ This is where I post projects that I am proud of!
 
 <h3>Github Stats:</h3>
 [![Ruin9999's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruin9999)](https://github.com/anuraghazra/github-readme-stats)]
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruin9999&show_icons=true&locale=en&layout=compact" alt="ruin9999" /></p>
