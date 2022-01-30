@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/discord/232873555031752704?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/Gyhn4P6)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Ruin9999.github.io)
 
 </div>
 
