@@ -10,7 +10,7 @@
 
 # Hi, I'm Shun Jie! 👋
 
-👩‍💻 I'm currently ***working on*** my OOP skills while trying to refactory a discord bot.  
+👩‍💻 I'm currently ***working on*** my OOP skills while trying to refactoring a discord bot.  
 
 🧠 I'm currently ***learning*** how to build websites with React ⚛ and NextJS.  
 
