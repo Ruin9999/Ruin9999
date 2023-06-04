@@ -6,4 +6,4 @@
 
 [![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/ruin9999)
 
-[![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/10112479/ruin9999)
+![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)(https://stackoverflow.com/users/10112479/ruin9999)
