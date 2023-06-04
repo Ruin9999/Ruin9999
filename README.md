@@ -1,4 +1,4 @@
-![Logo](assets/banner.jfif)
+![Logo](assets/banner.png)
 
 <div align="center">
 
